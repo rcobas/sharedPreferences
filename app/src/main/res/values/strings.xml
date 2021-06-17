@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferencesNombre</string>
+    <string name="dialog_title">Login</string>
+    <string name="dialog_message">Usuario previamente conectado. No tiene todavía nombre establecido.</string>
+</resources>
